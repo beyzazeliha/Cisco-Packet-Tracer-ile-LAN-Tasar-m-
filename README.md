@@ -1,1 +1,1 @@
-# Cisco-Packet-Tracer-ile-LAN-Tasarimi
+# Cisco-Packet-Tracer-İle-LAN-Tasarimi
