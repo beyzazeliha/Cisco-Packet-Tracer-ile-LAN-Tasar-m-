@@ -1,1 +1,1 @@
-# Cisco-Packet-Tracer-ile-LAN-Tasar-m-
+# Cisco-Packet-Tracer-ile-LAN-Tasarimi
